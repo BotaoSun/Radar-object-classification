@@ -1,5 +1,5 @@
 # Radar-object-classification
-Dataset(test_SVD) & lables (labels_SVD)
+Hand crafted Dataset(test_SVD) & lables (labels_SVD)
 
 Machine learning model(KNN, SVM)
 
